@@ -1,3 +1,7 @@
+## v0.1.0
+
+* Fix Proc.new deprecation warning in Ruby 2.7
+
 ## v0.0.8
 
 * Strip line endings from fields in record.
